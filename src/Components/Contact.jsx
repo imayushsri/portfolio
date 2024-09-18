@@ -76,23 +76,23 @@ const Contact = () => {
         <br />
           <h4 className='text-center mt-3'>Find me on</h4><br/>
           <div className="icons">
-            <a href="https://www.linkedin.com/in/imayushsri/">
+            <a href="https://www.linkedin.com/in/imayushsri/" target='_blank'>
           <FontAwesomeIcon icon={faLinkedin} className='icon'/>
               <span className="icon-linkedin" />
             </a>
-            <a href="https://twitter.com/imayush_sri">
+            <a href="https://twitter.com/imayush_sri" target='_blank'>
 <FontAwesomeIcon icon={faTwitter}  className='icon'/>
               <span className="icon-twitter" />
             </a>
-            <a href="https://www.facebook.com/imayush.sri">
+            <a href="https://www.facebook.com/imayush.sri" target='_blank'>
           <FontAwesomeIcon icon={faFacebook}  className='icon'/>
               <span className="icon-facebook" />
             </a>
-            <a href="https://www.instagram.com/imayush_sri/">
+            <a href="https://www.instagram.com/imayush_sri/" target='_blank'>
           <FontAwesomeIcon icon={faInstagram} className='icon'/>
               <span className="icon-instagram" />
             </a>
-            <a href="https://github.com/imayushsri">
+            <a href="https://github.com/imayushsri" target='_blank'>
           <FontAwesomeIcon icon={faGithub} className='icon'/>
               <span className="icon-instagram" />
             </a>

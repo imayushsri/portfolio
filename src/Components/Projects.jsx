@@ -18,7 +18,7 @@ const Projects = () => {
                                     Some quick example text to build on the card title and make up the bulk of
                                     the card's content.
                                 </p>
-                                <a href="https://github.com/imayushsri/NewsApp" className="btn btn-primary">
+                                <a href="https://github.com/imayushsri/NewsApp" target='_blank' className="btn btn-primary">
                                     GitHub
                                 </a>
                             </div>
@@ -34,7 +34,7 @@ const Projects = () => {
                                     Some quick example text to build on the card title and make up the bulk of
                                     the card's content.
                                 </p>
-                                <a href="https://github.com/imayushsri/TextUtils" className="btn btn-primary">
+                                <a href="https://github.com/imayushsri/TextUtils" target='_blank' className="btn btn-primary">
                                     GitHub
                                 </a>
                                 <a href="https://imayushsri.github.io/TextUtils/" target='_blank' className="btn btn-primary ms-4">
@@ -53,7 +53,7 @@ const Projects = () => {
                                     Some quick example text to build on the card title and make up the bulk of
                                     the card's content.
                                 </p>
-                                <a href="https://github.com/imayushsri/iNoteBook" className="btn btn-primary">
+                                <a href="https://github.com/imayushsri/iNoteBook" target='_blank' className="btn btn-primary">
                                     GitHub
                                 </a>
                             </div>
@@ -71,7 +71,7 @@ const Projects = () => {
                                     Some quick example text to build on the card title and make up the bulk of
                                     the card's content.
                                 </p>
-                                <a href="https://github.com/imayushsri/10MinZepto/tree/main/MyProject" className="btn btn-primary">
+                                <a href="https://github.com/imayushsri/10MinZepto/tree/main/MyProject" target='_blank' className="btn btn-primary">
                                     GitHub
                                 </a>
                             </div>
@@ -87,7 +87,7 @@ const Projects = () => {
                                     Some quick example text to build on the card title and make up the bulk of
                                     the card's content.
                                 </p>
-                                <a href="https://github.com/imayushsri/TwoGood.CO" className="btn btn-primary">
+                                <a href="https://github.com/imayushsri/TwoGood.CO" target='_blank' className="btn btn-primary">
                                     GitHub
                                 </a>
                                 <a href="https://imayushsri.github.io/TwoGood.CO/" target='_blank' className="btn btn-primary ms-4">
@@ -106,7 +106,7 @@ const Projects = () => {
                                     Some quick example text to build on the card title and make up the bulk of
                                     the card's content.
                                 </p>
-                                <a href="https://github.com/imayushsri/AmazonClone" className="btn btn-primary">
+                                <a href="https://github.com/imayushsri/AmazonClone" target='_blank' className="btn btn-primary">
                                     GitHub
                                 </a>
                                 <a href="https://imayushsri.github.io/AmazonClone/" target='_blank' className="btn btn-primary ms-4">
