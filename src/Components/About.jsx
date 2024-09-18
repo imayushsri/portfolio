@@ -27,7 +27,7 @@ const About = () => {
                             <a href='https://www.linkedin.com/in/imayushsri/'> <FontAwesomeIcon icon={faLinkedinIn} className='svg' /></a>
                             <a href="https://github.com/imayushsri"><FontAwesomeIcon icon={faGithub} className='svg' /></a>
                             <a href="https://twitter.com/imayush_sri"><FontAwesomeIcon icon={faTwitter} className='svg' /></a>
-                            <a href="https://www.instagram.com/imayush_sri/"><FontAwesomeIcon icon={faInstagram} className='svg' /></a>
+                            <a href="https://www.instagram.com/imayushsri/"><FontAwesomeIcon icon={faInstagram} className='svg' /></a>
                         </div>
                     </div>
                     <div className="AboutRight">

@@ -88,7 +88,7 @@ const Contact = () => {
           <FontAwesomeIcon icon={faFacebook}  className='icon'/>
               <span className="icon-facebook" />
             </a>
-            <a href="https://www.instagram.com/imayush_sri/" target='_blank'>
+            <a href="https://www.instagram.com/imayushsri/" target='_blank'>
           <FontAwesomeIcon icon={faInstagram} className='icon'/>
               <span className="icon-instagram" />
             </a>
